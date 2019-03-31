@@ -1,2 +1,2 @@
 # sample_lua
-A few part of lua code
+Only a tiny part of lua code for code-style and quality check.
